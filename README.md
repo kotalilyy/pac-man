@@ -8,7 +8,9 @@ React
 
 Follow this [tutorial](https://www.youtube.com/watch?v=YBtzzVwrTeE) to create this game.
 
-Thanks @[weibenfalk[(https://github.com/weibenfalk) & @[bradtraversy](https://github.com/bradtraversy)
+Thanks @[weibenfalk](https://github.com/weibenfalk) 
+
+Thanks @[bradtraversy](https://github.com/bradtraversy)
 
 ## Contributions
 
