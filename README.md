@@ -2,15 +2,13 @@
 
 ## Technologies Used
 
-React
+JavaScript
 
 ## Credits
 
-Follow this [tutorial](https://www.youtube.com/watch?v=YBtzzVwrTeE) to create this game.
+Follow this [tutorial](https://www.youtube.com/watch?v=Tk48dQCdQ3E) to create this game.
 
-Thanks @[weibenfalk](https://github.com/weibenfalk) 
-
-Thanks @[bradtraversy](https://github.com/bradtraversy)
+Thanks @[CodingWith-Adam](https://github.com/CodingWith-Adam) 
 
 ## Contributions
 
@@ -22,4 +20,4 @@ Created with ❤️ by Dakota Nelson
 
 <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-_Happy Hacking!_
+
