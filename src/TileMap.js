@@ -1,6 +1,12 @@
 export default class TileMap {
   constructor(tileSize) {
     this.tileSize = tileSize;
+
+    this.yellowDot = new Image();
+    this.yellowDot.src = "../images/yellowdot.png";
+
+    this.wall = new Image();
+    this.wall.src = "../images/wall.png";
   }
 
   // this is an array that creates rows, we will assign a number to each one
@@ -17,7 +23,10 @@ export default class TileMap {
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
   ];
 
-  draw() {
-    //console.log("draw");
+  draw(ctx) {}
+
+  setCanvasSize(canvas) {
+    canvas.width = this.map[0].length * this.tileSize;
+    canvas.height = this.map.length * this.tileSize;
   }
 }
