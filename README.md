@@ -6,7 +6,7 @@ JavaScript
 
 ## Credits
 
-Follow this [tutorial](https://www.youtube.com/watch?v=Tk48dQCdQ3E) to create this game.
+Click [here](https://www.youtube.com/watch?v=Tk48dQCdQ3E) if you would like to create this game.
 
 Thanks @[CodingWith-Adam](https://github.com/CodingWith-Adam) 
 
